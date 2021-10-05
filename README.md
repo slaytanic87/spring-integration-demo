@@ -1,2 +1,2 @@
 # spring-integration-demo
-Tcp Connection Demo
+Tcp Connection with Custom Binary Protocol
